@@ -15,7 +15,7 @@ Berikut adalah langkah-langkah untuk mengkloning repository dan menginstal depen
 
 ### Install Laravel atau Kloning Repository 
 ```bash
-composer create-project laravel/laravel nama projek
+composer create-project laravel/laravel nama proyek
 git clone https://github.com/username/nama-proyek.git
 cd nama-proyek
 composer install
