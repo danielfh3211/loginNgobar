@@ -1,4 +1,4 @@
-# LOGIN PAGE DAN TODO LIST LARAVEL 11
+# LOGIN PAGE LARAVEL 11
 
 ## Deskripsi Singkat
 Tutor singkat membuat login page dengan template dan todo list sederhana.
