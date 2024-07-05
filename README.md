@@ -1,7 +1,7 @@
 # LOGIN PAGE LARAVEL 11
 
 ## Deskripsi Singkat
-Tutor singkat membuat login page dengan template dan todo list sederhana.
+Tutor singkat membuat login page dengan template 
 
 ## Persyaratan
 Sebelum menginstal dan menjalankan proyek ini, pastikan Anda telah menginstal persyaratan berikut:
